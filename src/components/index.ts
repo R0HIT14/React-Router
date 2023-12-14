@@ -1,0 +1,9 @@
+import Header from "./Header";
+import Footer from "./Footer";
+import Home from "./Home";
+import Layout from "./Layout";
+import About from "./About";
+import Contact from "./Contact";
+import User from "./User";
+
+export { Header, Footer, Home, Layout, About, Contact, User};
